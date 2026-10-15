@@ -1,4 +1,4 @@
-"""# Python & Data Science — UPJV Amiens
+# Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Betul San
 **Formation :** L3 Économie
@@ -20,4 +20,4 @@ Python & Data Science réalisés sur Google Colab.
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
-"""
+
